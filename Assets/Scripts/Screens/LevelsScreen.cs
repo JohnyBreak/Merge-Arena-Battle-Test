@@ -37,6 +37,6 @@ public class LevelsScreen : BaseScreen
     {
         _data.PlayerData.SelectedSkinID = id;
         _dataProvider.Save();
-        SceneManager.LoadSceneAsync("Game Scene", LoadSceneMode.Single);
+        SceneManager.LoadSceneAsync("GameScene", LoadSceneMode.Single);
     }
 }
