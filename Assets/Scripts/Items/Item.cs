@@ -11,10 +11,10 @@ public abstract class Item : ScriptableObject
 }
 
 
-#if UNITY_EDITOR
+
 
 public class ScriptableItemIdAttribute : PropertyAttribute { }
-
+#if UNITY_EDITOR
 [CustomPropertyDrawer(typeof(ScriptableItemIdAttribute))]
 public class ScriptableObjectIdDrawer : PropertyDrawer
 {

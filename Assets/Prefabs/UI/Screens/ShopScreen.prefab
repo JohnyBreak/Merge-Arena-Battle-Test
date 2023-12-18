@@ -568,6 +568,7 @@ GameObject:
   - component: {fileID: 4727524396063587693}
   - component: {fileID: 1020943783240222120}
   - component: {fileID: 3672723512280094260}
+  - component: {fileID: -426571610723872845}
   m_Layer: 5
   m_Name: ShopScreen
   m_TagString: Untagged
@@ -623,3 +624,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _shopItemList: {fileID: 11400000, guid: fe5e76f81d29783459a4257d8e10ac67, type: 2}
   _spawnT: {fileID: 4311259601039862326}
+--- !u!114 &-426571610723872845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5159432802437746022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 717a02054ef2699498e6bd4234fd7995, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _containerSource: 0

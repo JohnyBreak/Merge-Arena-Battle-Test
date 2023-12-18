@@ -9,9 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a0cb7f2b72c738648b76e9e4457cdc64, type: 3}
-  m_Name: CharacterSkin 1
+  m_Script: {fileID: 11500000, guid: 5834b5087d578d24c926ce20cd31e6d6, type: 3}
+  m_Name: Default Local Group_ContentUpdateGroupSchema
   m_EditorClassIdentifier: 
-  _id: 7edb4872fc2aea740be8ef88fe2e2ea1
-  _name: Sphere
-  _skin: {fileID: 2018091358001421581, guid: 6a0e41b454ecef941a6427857da3a8b5, type: 3}
+  m_Group: {fileID: 11400000, guid: 3b5df045dcd19b7478d56abc9240de0b, type: 2}
+  m_StaticContent: 0
