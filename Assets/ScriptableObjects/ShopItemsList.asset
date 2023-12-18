@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4a4bea79f3e7264c8d7627ae6f12a71, type: 3}
+  m_Name: ShopItemsList
+  m_EditorClassIdentifier: 
+  ShopCategories:
+  - Name: Tickets
+    ShopItemInfos:
+    - {fileID: 11400000, guid: 7c2729e8b1a9924468bc1435f8d46354, type: 2}
+    - {fileID: 11400000, guid: 5474bb1a67c4a6d4f8186bf613ca96a3, type: 2}
+  - Name: Skins
+    ShopItemInfos:
+    - {fileID: 11400000, guid: 7490b3f3169879f48b2112dfaba04341, type: 2}
+    - {fileID: 11400000, guid: be4461c06822b774cb49cfbb5aa4b39f, type: 2}
+  - Name: Levels
+    ShopItemInfos: []
